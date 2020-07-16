@@ -4,6 +4,8 @@
 
 Google Cloud DNSのレコードを自動更新して自宅鯖とかでDDNSっぽいことをするやつ
 
+Discord通知機能もあるよ
+
 ## Google Cloud DNS 以外には対応してないの
 
 してません
